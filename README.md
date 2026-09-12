@@ -79,20 +79,25 @@
 </div>
 ---
 
+<hr />
+
 ### 🛡️ Cybersecurity & Real-Time Analytics
 
+<br/>
+
 <div align="center">
-  <!-- CARDS CORRIGIDOS COM FALLBACK ESTÁVEL -->
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=taliuli10&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taliuli10&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=taliuli10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliuli10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- STREAK CARD FUNCIONAL -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taliuli10&theme=cyberpunk&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taliuli10&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 </div>
+
+<hr />
+
 
 ---
 
