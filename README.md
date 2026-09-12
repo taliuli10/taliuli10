@@ -136,7 +136,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vcenter=true&width=500&height=50&lines=%3E_github.com%2Ftaliuli10;%3E_linkedin.com%2Fin%2Fricardotaliuli;%3E_taliricardo10%40gmail.com" alt="Terminal Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00FF66&center=true&vcenter=true&width=500&height=50&lines=%3E_github.com%2Ftaliuli10;%3E_linkedin.com%2Fin%2Fricardotaliuli;%3E_taliricardo10%40gmail.com" alt="Terminal Animation" />
   </a>
 </div>
 
@@ -144,13 +144,13 @@
 
 <div align="center">
   <a href="https://github.com/taliuli10" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-TALIULI10-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-TALIULI10-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ricardotaliuli/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="mailto:taliricardo10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-00FF66?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
 </div>
 
