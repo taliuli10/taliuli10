@@ -22,24 +22,76 @@
 
 <br/>
 
-<!-- BARRAS DE PROGRESSO ANIMADAS -->
+<!-- LAYOUT ALINHADO: ESQUERDA (NOME) | MEIO (BARRA ANIMADA) | DIREITA (PORCENTAGEM) -->
 <div align="center">
+<table border="0" style="border-collapse: collapse; border: none;">
 
-  <p><strong>HTML5 (44%)</strong></p>
-  <img src="https://geps.dev/progress/44?color=E34F26" alt="HTML5 44%" />
+  <!-- HTML5 -->
+  <tr>
+    <td align="left" width="120"><code>HTML5</code></td>
+    <td align="center" width="400">
+      <img src="https://geps.dev/progress/44?color=E34F26" alt="HTML5 Progress" width="380" />
+    </td>
+    <td align="right" width="100">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=E34F26&center=false&vcenter=true&width=80&height=25&lines=44%25;loading..." alt="44%" />
+      </a>
+    </td>
+  </tr>
 
-  <p><strong>Java (20%)</strong></p>
-  <img src="https://geps.dev/progress/20?color=ED8B00" alt="Java 20%" />
+  <!-- Java -->
+  <tr>
+    <td align="left" width="120"><code>Java</code></td>
+    <td align="center" width="400">
+      <img src="https://geps.dev/progress/20?color=ED8B00" alt="Java Progress" width="380" />
+    </td>
+    <td align="right" width="100">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=ED8B00&center=false&vcenter=true&width=80&height=25&lines=20%25;loading..." alt="20%" />
+      </a>
+    </td>
+  </tr>
 
-  <p><strong>CSS3 (20%)</strong></p>
-  <img src="https://geps.dev/progress/20?color=1572B6" alt="CSS3 20%" />
+  <!-- CSS3 -->
+  <tr>
+    <td align="left" width="120"><code>CSS3</code></td>
+    <td align="center" width="400">
+      <img src="https://geps.dev/progress/20?color=1572B6" alt="CSS3 Progress" width="380" />
+    </td>
+    <td align="right" width="100">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=1572B6&center=false&vcenter=true&width=80&height=25&lines=20%25;loading..." alt="20%" />
+      </a>
+    </td>
+  </tr>
 
-  <p><strong>C Language (6%)</strong></p>
-  <img src="https://geps.dev/progress/6?color=A8B9CC" alt="C 6%" />
+  <!-- C Language -->
+  <tr>
+    <td align="left" width="120"><code>C Language</code></td>
+    <td align="center" width="400">
+      <img src="https://geps.dev/progress/6?color=A8B9CC" alt="C Progress" width="380" />
+    </td>
+    <td align="right" width="100">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=A8B9CC&center=false&vcenter=true&width=80&height=25&lines=6%25;loading..." alt="6%" />
+      </a>
+    </td>
+  </tr>
 
-  <p><strong>C# (5%)</strong></p>
-  <img src="https://geps.dev/progress/5?color=239120" alt="C# 5%" />
+  <!-- C# -->
+  <tr>
+    <td align="left" width="120"><code>C#</code></td>
+    <td align="center" width="400">
+      <img src="https://geps.dev/progress/5?color=239120" alt="C# Progress" width="380" />
+    </td>
+    <td align="right" width="100">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=239120&center=false&vcenter=true&width=80&height=25&lines=5%25;loading..." alt="5%" />
+      </a>
+    </td>
+  </tr>
 
+</table>
 </div>
 
 <br/>
