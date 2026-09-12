@@ -22,71 +22,70 @@
 
 <br/>
 
-<!-- LAYOUT ALINHADO: ESQUERDA (NOME) | MEIO (BARRA ANIMADA) | DIREITA (PORCENTAGEM) -->
 <div align="center">
 <table border="0" style="border-collapse: collapse; border: none;">
 
-  <!-- HTML5 -->
+  <!-- HTML5 (44%) -->
   <tr>
-    <td align="left" width="120"><code>HTML5</code></td>
-    <td align="center" width="400">
-      <img src="https://geps.dev/progress/44?color=E34F26" alt="HTML5 Progress" width="380" />
+    <td align="left" width="110" style="border: none;"><code>HTML5</code></td>
+    <td align="center" width="420" style="border: none;">
+      <img src="https://geps.dev/progress/44?color=E34F26" alt="HTML5 Bar" width="400" />
     </td>
-    <td align="right" width="100">
+    <td align="right" width="80" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=E34F26&center=false&vcenter=true&width=80&height=25&lines=44%25;loading..." alt="44%" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=E34F26&center=false&vcenter=true&width=70&height=25&lines=44%25;..44%25" alt="44%" />
       </a>
     </td>
   </tr>
 
-  <!-- Java -->
+  <!-- Java (20%) -->
   <tr>
-    <td align="left" width="120"><code>Java</code></td>
-    <td align="center" width="400">
-      <img src="https://geps.dev/progress/20?color=ED8B00" alt="Java Progress" width="380" />
+    <td align="left" width="110" style="border: none;"><code>Java</code></td>
+    <td align="center" width="420" style="border: none;">
+      <img src="https://geps.dev/progress/20?color=ED8B00" alt="Java Bar" width="400" />
     </td>
-    <td align="right" width="100">
+    <td align="right" width="80" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=ED8B00&center=false&vcenter=true&width=80&height=25&lines=20%25;loading..." alt="20%" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=ED8B00&center=false&vcenter=true&width=70&height=25&lines=20%25;..20%25" alt="20%" />
       </a>
     </td>
   </tr>
 
-  <!-- CSS3 -->
+  <!-- CSS3 (20%) -->
   <tr>
-    <td align="left" width="120"><code>CSS3</code></td>
-    <td align="center" width="400">
-      <img src="https://geps.dev/progress/20?color=1572B6" alt="CSS3 Progress" width="380" />
+    <td align="left" width="110" style="border: none;"><code>CSS3</code></td>
+    <td align="center" width="420" style="border: none;">
+      <img src="https://geps.dev/progress/20?color=1572B6" alt="CSS3 Bar" width="400" />
     </td>
-    <td align="right" width="100">
+    <td align="right" width="80" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=1572B6&center=false&vcenter=true&width=80&height=25&lines=20%25;loading..." alt="20%" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=1572B6&center=false&vcenter=true&width=70&height=25&lines=20%25;..20%25" alt="20%" />
       </a>
     </td>
   </tr>
 
-  <!-- C Language -->
+  <!-- C Language (6%) -->
   <tr>
-    <td align="left" width="120"><code>C Language</code></td>
-    <td align="center" width="400">
-      <img src="https://geps.dev/progress/6?color=A8B9CC" alt="C Progress" width="380" />
+    <td align="left" width="110" style="border: none;"><code>C Language</code></td>
+    <td align="center" width="420" style="border: none;">
+      <img src="https://geps.dev/progress/6?color=A8B9CC" alt="C Bar" width="400" />
     </td>
-    <td align="right" width="100">
+    <td align="right" width="80" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=A8B9CC&center=false&vcenter=true&width=80&height=25&lines=6%25;loading..." alt="6%" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=A8B9CC&center=false&vcenter=true&width=70&height=25&lines=6%25;..6%25" alt="6%" />
       </a>
     </td>
   </tr>
 
-  <!-- C# -->
+  <!-- C# (5%) -->
   <tr>
-    <td align="left" width="120"><code>C#</code></td>
-    <td align="center" width="400">
-      <img src="https://geps.dev/progress/5?color=239120" alt="C# Progress" width="380" />
+    <td align="left" width="110" style="border: none;"><code>C#</code></td>
+    <td align="center" width="420" style="border: none;">
+      <img src="https://geps.dev/progress/5?color=239120" alt="C# Bar" width="400" />
     </td>
-    <td align="right" width="100">
+    <td align="right" width="80" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=1000&color=239120&center=false&vcenter=true&width=80&height=25&lines=5%25;loading..." alt="5%" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=800&color=239120&center=false&vcenter=true&width=70&height=25&lines=5%25;..5%25" alt="5%" />
       </a>
     </td>
   </tr>
@@ -109,7 +108,6 @@
   <img src="https://img.shields.io/badge/TSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </div>
-
 ---
 
 ### 🛡️ Cybersecurity & Real-Time Analytics
