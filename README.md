@@ -135,18 +135,23 @@
 ### 🌐 Terminal Connection & Status
 
 <div align="center">
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=40&lines=%3E_CONNECT_WITH_ME:;%3E_github.com%2Ftaliuli10" alt="Connect Typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F5FF&center=true&vcenter=true&width=500&height=50&lines=%3E_github.com%2Ftaliuli10;%3E_linkedin.com%2Fin%2Fricardotaliuli;%3E_taliricardo10%40gmail.com" alt="Terminal Animation" />
   </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/taliuli10">
-    <img src="https://img.shields.io/badge/GitHub-taliuli10-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
 </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/taliuli10" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-TALIULI10-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardotaliuli/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:taliricardo10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<hr />
