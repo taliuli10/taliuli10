@@ -77,8 +77,6 @@
 
 </table>
 </div>
-  </table>
-</div>
 
 <br/>
 
@@ -92,20 +90,18 @@
   <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/TSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </div>
-<hr />
+
+---
 
 ### 🛡️ Cybersecurity & Real-Time Analytics
 
 <br/>
 
-  <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taliuli10&theme=dark&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=00FF66&dates=00FF66&count_private=true" alt="GitHub Streak Stats" />
-  <img src="https://github.com/taliuli10/Readme-perfil-gihub/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
-</picture>
+  <br/><br/>
+  <img src="https://github.com/taliuli10/taliuli10/raw/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
-
-<hr />
-
 
 ---
 
@@ -147,5 +143,3 @@
     <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-<hr />
