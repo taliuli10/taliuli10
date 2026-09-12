@@ -1,39 +1,50 @@
 <div align="center">
 
-  <!-- HEADER ANIMADO ESTILO TERMINAL CYBERSECURITY -->
+  <!-- BANNER ANIMADO DE ENTRADA (ASCII + TYPING) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&height=50&lines=%3E_System.init();;%3E_Cybersecurity+%26+DevOps;;%3E_Ethical+Hacker+In+Training;;%3E_Welcome+to+my+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00FF66&center=true&vcenter=true&width=750&height=70&lines=TALIULI;%3E_CYBERSECURITY+%26+DEV-OPS;%3E_ETHICAL+HACKING+LABS;%3E_SYSTEM_OVERRIDE_INITIALIZED..." alt="Taliuli Animated Banner" />
   </a>
 
-  <p>
-    <a href="https://github.com/taliuli10">
-      <img src="https://img.shields.io/badge/User-taliuli10-00FF66?style=for-the-badge&logo=github&logoColor=black" />
-    </a>
-    <a href="https://github.com/taliuli10">
-      <img src="https://img.shields.io/badge/Status-Hacking_the_planet...-00D1FF?style=for-the-badge&logo=gnubash&logoColor=black" />
-    </a>
+  <!-- STATUS ANIMADOS DE SISTEMA -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/SECURITY-ACTIVE-00FF66?style=for-the-badge&logo=shield&logoColor=black" />
+    <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D1FF?style=for-the-badge&logo=gnu-bash&logoColor=black" />
+    <img src="https://img.shields.io/badge/FIREWALL-ENABLED-FF0055?style=for-the-badge&logo=fortinet&logoColor=white" />
   </p>
 
 </div>
 
 ---
 
-### 💻 Technology Arsenal & Language Stack
+### ⚡ Technical Toolkit & Language Stack (Live Progress)
 
-> `root@taliuli10:~# ./scan_technologies.sh --verbose`
-
-#### 📊 Language Distribution & Percentage Breakdown
-| Technology | Share | Status / Bar |
-| :--- | :---: | :--- |
-| **HTML5** | `44%` | `████████████████████░░░░░░░░░░░` |
-| **Java** | `20%` | `█████████░░░░░░░░░░░░░░░░░░░░░` |
-| **CSS3** | `20%` | `█████████░░░░░░░░░░░░░░░░░░░░░` |
-| **C Language** | `6%` | `███░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
-| **C#** | `5%` | `██░░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+> `root@taliuli10:~# ./fetch_live_stats.sh`
 
 <br/>
 
-<!-- BADGES ANIMADAS DAS FERRAMENTAS DO SEU ARSENAL -->
+<!-- BARRAS DE PROGRESSO ANIMADAS DA LINGUAGEM -->
+<div align="center">
+
+  <p><strong>HTML5 (44%)</strong></p>
+  <img src="https://geps.dev/progress/44?dangerColor=E34F26&warningColor=E34F26&color=E34F26" alt="HTML5 44%" />
+
+  <p><strong>Java (20%)</strong></p>
+  <img src="https://geps.dev/progress/20?dangerColor=ED8B00&warningColor=ED8B00&color=ED8B00" alt="Java 20%" />
+
+  <p><strong>CSS3 (20%)</strong></p>
+  <img src="https://geps.dev/progress/20?dangerColor=1572B6&warningColor=1572B6&color=1572B6" alt="CSS3 20%" />
+
+  <p><strong>C Language (6%)</strong></p>
+  <img src="https://geps.dev/progress/6?dangerColor=A8B9CC&warningColor=A8B9CC&color=A8B9CC" alt="C 6%" />
+
+  <p><strong>C# (5%)</strong></p>
+  <img src="https://geps.dev/progress/5?dangerColor=239120&warningColor=239120&color=239120" alt="C# 5%" />
+
+</div>
+
+<br/>
+
+<!-- BADGES ANIMADOS DO ARSENAL -->
 <div align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -49,20 +60,18 @@
 
 ---
 
-### 🛡️ Cybersecurity & Development Stats
+### 🛡️ Cybersecurity & Real-Time Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card Cyberpunk Theme -->
+  <!-- CARDS DINÂMICOS ANIMADOS -->
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=taliuli10&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-  
-  <!-- Most Used Languages Card -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliuli10&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Streak Stats Card -->
+  <!-- METRICA DE STREAK ANIMADA -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taliuli10&theme=cyberpunk&hide_border=true" />
 </div>
 
@@ -70,27 +79,49 @@
 
 ### 📂 Repositories Worth Exploring
 
-> `root@taliuli10:~# ./projects.sh --all`
+> `root@taliuli10:~# ./projects.sh --live`
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🛠️ **[DevOps-Tools](https://github.com/taliuli10/DevOps-Tools)** | Automação e scripts de infraestrutura | `JavaScript` `Docker` | 🟢 Active |
-| 📦 **[Projetos-](https://github.com/taliuli10/Projetos-)** | Repositório central de projetos e laboratórios | `C#` `HTML` | 🟢 Active |
-| 🧮 **[Calculadora-em-C-](https://github.com/taliuli10/Calculadora-em-C-)** | Algoritmos e lógica programada em C | `C` | 🟡 Archived |
-| ☕ **[POO](https://github.com/taliuli10/POO)** | Programação Orientada a Objetos | `Java` | 🟡 Archived |
+  <!-- CARD ANIMADO DE REPOSITÓRIO 1 -->
+  <a href="https://github.com/taliuli10/DevOps-Tools">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=DevOps-Tools&theme=cyberpunk&hide_border=true" />
+  </a>
+  <!-- CARD ANIMADO DE REPOSITÓRIO 2 -->
+  <a href="https://github.com/taliuli10/Projetos-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=Projetos-&theme=cyberpunk&hide_border=true" />
+  </a>
+
+  <br/><br/>
+
+  <!-- CARD ANIMADO DE REPOSITÓRIO 3 -->
+  <a href="https://github.com/taliuli10/Calculadora-em-C-">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=Calculadora-em-C-&theme=cyberpunk&hide_border=true" />
+  </a>
+  <!-- CARD ANIMADO DE REPOSITÓRIO 4 -->
+  <a href="https://github.com/taliuli10/POO">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=POO&theme=cyberpunk&hide_border=true" />
+  </a>
 
 </div>
 
 ---
 
-### ⚡ GitHub Signal & Activity
+### 🌐 Terminal Connection & Status
 
 <div align="center">
 
-```text
-+-------------------------------------------------------------+
-|  📊 Repositories: 13+  |  ⭐ Stars: 0  |  🔥 Commits: Active  |
-|  🛡️ Focus: Security, DevOps Tools & C/C++/Java Systems      |
-+-------------------------------------------------------------+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=600&height=40&lines=%3E_CONNECT_WITH_ME:;%3E_github.com%2Ftaliuli10" alt="Connect Typing" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/taliuli10">
+    <img src="https://img.shields.io/badge/GitHub-taliuli10-00F0FF?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
