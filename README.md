@@ -23,80 +23,45 @@
 <br/>
 
 <div align="center">
-<table border="0" style="border-collapse: collapse; border: none;">
+<table border="0">
 
   <!-- HTML5 (44%) -->
   <tr>
-    <td align="left" width="120" style="border: none;"><code>HTML5</code></td>
-    <td align="center" width="450" style="border: none;">
-      <svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0" y="0" width="400" height="42" rx="10" fill="#383838"/>
-        <!-- BARRA ANIMADA -->
-        <rect x="0" y="0" width="176" height="42" rx="10" fill="#E34F26">
-          <animate attributeName="width" from="0" to="176" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <text x="200" y="27" font-family="'Fira Code', monospace" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">44%</text>
-      </svg>
+    <td align="left" width="120"><code>HTML5</code></td>
+    <td align="center" width="450">
+      <img src="https://geps.dev/progress/44?color=E34F26&title=44%25" alt="HTML5 44%" width="400" />
     </td>
   </tr>
 
   <!-- Java (20%) -->
   <tr>
-    <td align="left" width="120" style="border: none;"><code>Java</code></td>
-    <td align="center" width="450" style="border: none;">
-      <svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0" y="0" width="400" height="42" rx="10" fill="#383838"/>
-        <!-- BARRA ANIMADA -->
-        <rect x="0" y="0" width="80" height="42" rx="10" fill="#D9534F">
-          <animate attributeName="width" from="0" to="80" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <text x="200" y="27" font-family="'Fira Code', monospace" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">20%</text>
-      </svg>
+    <td align="left" width="120"><code>Java</code></td>
+    <td align="center" width="450">
+      <img src="https://geps.dev/progress/20?color=ED8B00&title=20%25" alt="Java 20%" width="400" />
     </td>
   </tr>
 
   <!-- CSS3 (20%) -->
   <tr>
-    <td align="left" width="120" style="border: none;"><code>CSS3</code></td>
-    <td align="center" width="450" style="border: none;">
-      <svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0" y="0" width="400" height="42" rx="10" fill="#383838"/>
-        <!-- BARRA ANIMADA -->
-        <rect x="0" y="0" width="80" height="42" rx="10" fill="#D9534F">
-          <animate attributeName="width" from="0" to="80" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <text x="200" y="27" font-family="'Fira Code', monospace" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">20%</text>
-      </svg>
+    <td align="left" width="120"><code>CSS3</code></td>
+    <td align="center" width="450">
+      <img src="https://geps.dev/progress/20?color=1572B6&title=20%25" alt="CSS3 20%" width="400" />
     </td>
   </tr>
 
   <!-- C Language (6%) -->
   <tr>
-    <td align="left" width="120" style="border: none;"><code>C Language</code></td>
-    <td align="center" width="450" style="border: none;">
-      <svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0" y="0" width="400" height="42" rx="10" fill="#383838"/>
-        <!-- BARRA ANIMADA -->
-        <rect x="0" y="0" width="24" height="42" rx="10" fill="#D9534F">
-          <animate attributeName="width" from="0" to="24" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <text x="200" y="27" font-family="'Fira Code', monospace" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">6%</text>
-      </svg>
+    <td align="left" width="120"><code>C Language</code></td>
+    <td align="center" width="450">
+      <img src="https://geps.dev/progress/6?color=A8B9CC&title=6%25" alt="C 6%" width="400" />
     </td>
   </tr>
 
   <!-- C# (5%) -->
   <tr>
-    <td align="left" width="120" style="border: none;"><code>C#</code></td>
-    <td align="center" width="450" style="border: none;">
-      <svg width="400" height="42" viewBox="0 0 400 42" xmlns="http://www.w3.org/2000/svg">
-        <rect x="0" y="0" width="400" height="42" rx="10" fill="#383838"/>
-        <!-- BARRA ANIMADA -->
-        <rect x="0" y="0" width="20" height="42" rx="10" fill="#D9534F">
-          <animate attributeName="width" from="0" to="20" dur="2s" repeatCount="indefinite" />
-        </rect>
-        <text x="200" y="27" font-family="'Fira Code', monospace" font-size="20" font-weight="bold" fill="#FFFFFF" text-anchor="middle">5%</text>
-      </svg>
+    <td align="left" width="120"><code>C#</code></td>
+    <td align="center" width="450">
+      <img src="https://geps.dev/progress/5?color=239120&title=5%25" alt="C# 5%" width="400" />
     </td>
   </tr>
 
