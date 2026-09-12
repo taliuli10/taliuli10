@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- BANNER ANIMADO DE ENTRADA (ASCII + TYPING) -->
+  <!-- BANNER ANIMADO DE ENTRADA -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1000&color=00FF66&center=true&vcenter=true&width=750&height=70&lines=TALIULI;%3E_CYBERSECURITY+%26+DEV-OPS;%3E_ETHICAL+HACKING+LABS;%3E_SYSTEM_OVERRIDE_INITIALIZED..." alt="Taliuli Animated Banner" />
   </a>
@@ -16,35 +16,35 @@
 
 ---
 
-### ⚡ Technical Toolkit & Language Stack (Live Progress)
+### ⚡ Technical Toolkit & Language Stack
 
-> `root@taliuli10:~# ./fetch_live_stats.sh`
+> `root@taliuli10:~# ./scan_technologies.sh --verbose`
 
 <br/>
 
-<!-- BARRAS DE PROGRESSO ANIMADAS DA LINGUAGEM -->
+<!-- BARRAS DE PROGRESSO ANIMADAS -->
 <div align="center">
 
   <p><strong>HTML5 (44%)</strong></p>
-  <img src="https://geps.dev/progress/44?dangerColor=E34F26&warningColor=E34F26&color=E34F26" alt="HTML5 44%" />
+  <img src="https://geps.dev/progress/44?color=E34F26" alt="HTML5 44%" />
 
   <p><strong>Java (20%)</strong></p>
-  <img src="https://geps.dev/progress/20?dangerColor=ED8B00&warningColor=ED8B00&color=ED8B00" alt="Java 20%" />
+  <img src="https://geps.dev/progress/20?color=ED8B00" alt="Java 20%" />
 
   <p><strong>CSS3 (20%)</strong></p>
-  <img src="https://geps.dev/progress/20?dangerColor=1572B6&warningColor=1572B6&color=1572B6" alt="CSS3 20%" />
+  <img src="https://geps.dev/progress/20?color=1572B6" alt="CSS3 20%" />
 
   <p><strong>C Language (6%)</strong></p>
-  <img src="https://geps.dev/progress/6?dangerColor=A8B9CC&warningColor=A8B9CC&color=A8B9CC" alt="C 6%" />
+  <img src="https://geps.dev/progress/6?color=A8B9CC" alt="C 6%" />
 
   <p><strong>C# (5%)</strong></p>
-  <img src="https://geps.dev/progress/5?dangerColor=239120&warningColor=239120&color=239120" alt="C# 5%" />
+  <img src="https://geps.dev/progress/5?color=239120" alt="C# 5%" />
 
 </div>
 
 <br/>
 
-<!-- BADGES ANIMADOS DO ARSENAL -->
+<!-- BADGES DO ARSENAL -->
 <div align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,15 +63,15 @@
 ### 🛡️ Cybersecurity & Real-Time Analytics
 
 <div align="center">
-  <!-- CARDS DINÂMICOS ANIMADOS -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=taliuli10&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taliuli10&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
+  <!-- CARDS CORRIGIDOS COM FALLBACK ESTÁVEL -->
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=taliuli10&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=taliuli10&layout=compact&theme=cyberpunk&hide_border=true&langs_count=6" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- METRICA DE STREAK ANIMADA -->
+  <!-- STREAK CARD FUNCIONAL -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taliuli10&theme=cyberpunk&hide_border=true" />
 </div>
 
@@ -79,29 +79,16 @@
 
 ### 📂 Repositories Worth Exploring
 
-> `root@taliuli10:~# ./projects.sh --live`
+> `root@taliuli10:~# ./projects.sh --all`
 
 <div align="center">
 
-  <!-- CARD ANIMADO DE REPOSITÓRIO 1 -->
-  <a href="https://github.com/taliuli10/DevOps-Tools">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=DevOps-Tools&theme=cyberpunk&hide_border=true" />
-  </a>
-  <!-- CARD ANIMADO DE REPOSITÓRIO 2 -->
-  <a href="https://github.com/taliuli10/Projetos-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=Projetos-&theme=cyberpunk&hide_border=true" />
-  </a>
-
-  <br/><br/>
-
-  <!-- CARD ANIMADO DE REPOSITÓRIO 3 -->
-  <a href="https://github.com/taliuli10/Calculadora-em-C-">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=Calculadora-em-C-&theme=cyberpunk&hide_border=true" />
-  </a>
-  <!-- CARD ANIMADO DE REPOSITÓRIO 4 -->
-  <a href="https://github.com/taliuli10/POO">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=taliuli10&repo=POO&theme=cyberpunk&hide_border=true" />
-  </a>
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🛠️ **[DevOps-Tools](https://github.com/taliuli10/DevOps-Tools)** | Automação e scripts de infraestrutura | `JavaScript` `Docker` | 🟢 Active |
+| 📦 **[Projetos-](https://github.com/taliuli10/Projetos-)** | Repositório central de projetos e laboratórios | `C#` `HTML` | 🟢 Active |
+| 🧮 **[Calculadora-em-C-](https://github.com/taliuli10/Calculadora-em-C-)** | Algoritmos e lógica programada em C | `C` | 🟡 Archived |
+| ☕ **[POO](https://github.com/taliuli10/POO)** | Programação Orientada a Objetos | `Java` | 🟡 Archived |
 
 </div>
 
