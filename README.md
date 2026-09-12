@@ -23,37 +23,59 @@
 <br/>
 
 <div align="center">
+<table border="0" style="border-collapse: collapse; border: none;">
 
   <!-- HTML5 (44%) -->
-  <p><code>HTML5</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=E34F26&center=true&vcenter=true&width=400&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25;Loading+HTML5...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25" alt="HTML5 Loading Bar" />
-  </a>
+  <tr>
+    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>HTML5</code></td>
+    <td align="left" width="360" style="border: none;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=E34F26&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25;Loading+HTML5...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25" alt="HTML5 Loading Bar" />
+      </a>
+    </td>
+  </tr>
 
   <!-- Java (20%) -->
-  <p><code>Java</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ED8B00&center=true&vcenter=true&width=400&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+Java...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="Java Loading Bar" />
-  </a>
+  <tr>
+    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>Java</code></td>
+    <td align="left" width="360" style="border: none;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ED8B00&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+Java...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="Java Loading Bar" />
+      </a>
+    </td>
+  </tr>
 
   <!-- CSS3 (20%) -->
-  <p><code>CSS3</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=1572B6&center=true&vcenter=true&width=400&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+CSS3...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="CSS3 Loading Bar" />
-  </a>
+  <tr>
+    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>CSS3</code></td>
+    <td align="left" width="360" style="border: none;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=1572B6&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+CSS3...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="CSS3 Loading Bar" />
+      </a>
+    </td>
+  </tr>
 
   <!-- C Language (6%) -->
-  <p><code>C Language</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=A8B9CC&center=true&vcenter=true&width=400&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25;Loading+C...;%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25" alt="C Loading Bar" />
-  </a>
+  <tr>
+    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>C Language</code></td>
+    <td align="left" width="360" style="border: none;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=A8B9CC&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25;Loading+C...;%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25" alt="C Loading Bar" />
+      </a>
+    </td>
+  </tr>
 
   <!-- C# (5%) -->
-  <p><code>C#</code></p>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=239120&center=true&vcenter=true&width=400&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25;Loading+C%23...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25" alt="C# Loading Bar" />
-  </a>
+  <tr>
+    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>C#</code></td>
+    <td align="left" width="360" style="border: none;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=239120&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25;Loading+C%23...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25" alt="C# Loading Bar" />
+      </a>
+    </td>
+  </tr>
 
+</table>
 </div>
 
 <br/>
