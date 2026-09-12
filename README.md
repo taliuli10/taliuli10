@@ -27,71 +27,55 @@
 
   <!-- HTML5 (44%) -->
   <tr>
-    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>HTML5</code></td>
-    <td align="left" width="360" style="border: none;">
+    <td align="right" width="130" style="border: none;"><code>HTML5</code></td>
+    <td align="left" width="370" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=E34F26&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25;Loading+HTML5...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25" alt="HTML5 Loading Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=2000&duration=1500&color=E34F26&center=false&vcenter=true&width=360&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25;Loading...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+44%25" alt="HTML5 Loading Bar" />
       </a>
     </td>
   </tr>
 
   <!-- Java (20%) -->
   <tr>
-    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>Java</code></td>
-    <td align="left" width="360" style="border: none;">
+    <td align="right" width="130" style="border: none;"><code>Java</code></td>
+    <td align="left" width="370" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=ED8B00&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+Java...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="Java Loading Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=2000&duration=1500&color=ED8B00&center=false&vcenter=true&width=360&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="Java Loading Bar" />
       </a>
     </td>
   </tr>
 
   <!-- CSS3 (20%) -->
   <tr>
-    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>CSS3</code></td>
-    <td align="left" width="360" style="border: none;">
+    <td align="right" width="130" style="border: none;"><code>CSS3</code></td>
+    <td align="left" width="370" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=1572B6&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading+CSS3...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="CSS3 Loading Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=2000&duration=1500&color=1572B6&center=false&vcenter=true&width=360&height=35&lines=%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25;Loading...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+20%25" alt="CSS3 Loading Bar" />
       </a>
     </td>
   </tr>
 
   <!-- C Language (6%) -->
   <tr>
-    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>C Language</code></td>
-    <td align="left" width="360" style="border: none;">
+    <td align="right" width="130" style="border: none;"><code>C Language</code></td>
+    <td align="left" width="370" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=A8B9CC&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25;Loading+C...;%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25" alt="C Loading Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=2000&duration=1500&color=A8B9CC&center=false&vcenter=true&width=360&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25;Loading...;%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+6%25" alt="C Loading Bar" />
       </a>
     </td>
   </tr>
 
   <!-- C# (5%) -->
   <tr>
-    <td align="right" width="130" style="border: none; padding-right: 15px;"><code>C#</code></td>
-    <td align="left" width="360" style="border: none;">
+    <td align="right" width="130" style="border: none;"><code>C#</code></td>
+    <td align="left" width="370" style="border: none;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=1000&color=239120&center=false&vcenter=true&width=350&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25;Loading+C%23...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25" alt="C# Loading Bar" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&pause=2000&duration=1500&color=239120&center=false&vcenter=true&width=360&height=35&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25;Loading...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+5%25" alt="C# Loading Bar" />
       </a>
     </td>
   </tr>
 
 </table>
-</div>
-
-<br/>
-
-<!-- BADGES DO ARSENAL -->
-<div align="center">
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/TSQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-
 </div>
 ---
 
