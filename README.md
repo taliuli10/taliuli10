@@ -100,7 +100,7 @@
 
   <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taliuli10&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://ghchart.rshah.org/2DBA4E/taliuli10" alt="GitHub Contributions Chart" width="48%" />
+  <img src="https://raw.githubusercontent.com/taliuli10/taliuli10/output/github-snake.svg" alt="GitHub Snake Animation" width="100%" />
 </div>
 
 <br/>
