@@ -143,7 +143,7 @@
   <a href="https://www.linkedin.com/in/ricardotaliuli/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
-  <a href="mailto:taliricardo10@gmail.com" target="_blank">
+  <a href="mailto:taliricardo10@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-00FF66?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
   </a>
 </div>
