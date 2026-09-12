@@ -100,7 +100,7 @@
 
   <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taliuli10&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=taliuli10&theme=tokyonight&utcOffset=-3" alt="Productive Time" width="48%" />
+  <img src="https://ghchart.rshah.org/2DBA4E/taliuli10" alt="GitHub Contributions Chart" width="48%" />
 </div>
 
 <br/>
