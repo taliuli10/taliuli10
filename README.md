@@ -138,13 +138,13 @@
 
 <div align="center">
   <a href="https://github.com/taliuli10" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-TALIULI10-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-TALIULI10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ricardotaliuli/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-00FF66?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-RICARDOTALIULI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:taliricardo10@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-00FF66?style=for-the-badge&logo=gmail&logoColor=black" alt="Gmail" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=taliricardo10@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-TALIRICARDO10-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
