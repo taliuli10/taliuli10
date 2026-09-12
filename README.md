@@ -86,7 +86,7 @@
 
   <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taliuli10&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=taliuli10&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.simple-icons.workers.dev/api/top-langs/?username=taliuli10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
