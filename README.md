@@ -114,7 +114,7 @@
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
 | 🛠️ **[DevOps-Tools](https://github.com/taliuli10/DevOps-Tools)** | Automação e scripts de infraestrutura | `JavaScript` `Docker` | 🟢 Active |
-| 📦 **[Projetos-](https://github.com/taliuli10/Projetos-)** | Repositório central de projetos e laboratórios | `C#` `HTML` | 🟢 Active |
+| 📦 **[Projetos-C#](https://github.com/taliuli10/Projetos-)** | Repositório central de projetos e laboratórios | `C#` `HTML` | 🟢 Active |
 | 🧮 **[Calculadora-em-C-](https://github.com/taliuli10/Calculadora-em-C-)** | Algoritmos e lógica programada em C | `C` | 🟡 Archived |
 | ☕ **[POO](https://github.com/taliuli10/POO)** | Programação Orientada a Objetos | `Java` | 🟡 Archived |
 
