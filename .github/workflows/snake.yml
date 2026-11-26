@@ -2,8 +2,17 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/snake.yml
   workflow_dispatch:
+
+concurrency:
+  group: snake-output
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -13,18 +22,20 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate contribution animations
+        uses: Platane/snk/svg-only@v3.5.0
         with:
-          github_user_name: taliuli10
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish animations to the output branch
+        uses: crazy-max/ghaction-github-pages@v5.0.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: Update contribution animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
