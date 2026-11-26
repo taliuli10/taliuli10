@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66" height="28" viewBox="0 0 66 28" role="img" aria-label="T-SQL">
+  <title>T-SQL</title>
+  <rect width="66" height="28" fill="#B51F2B"/>
+  <g fill="none" stroke="#fff" stroke-width="1.25">
+    <ellipse cx="15" cy="9" rx="6" ry="2.5"/>
+    <path d="M9 9v9c0 1.4 2.7 2.5 6 2.5s6-1.1 6-2.5V9M9 13.5c0 1.4 2.7 2.5 6 2.5s6-1.1 6-2.5"/>
+  </g>
+  <text x="26" y="18" fill="#fff" font-family="Verdana, sans-serif" font-size="10" font-weight="700" letter-spacing="1.15">T-SQL</text>
+</svg>
